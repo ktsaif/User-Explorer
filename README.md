@@ -7,13 +7,13 @@ Welcome to **User Explorer**, a React Native application built with Expo, design
 - **Frontend:**
   - Framework: React Native with Expo
   - Boilerplate: Ignite CLI (Open Source at [Infinite Red](https://infinite.red))
-  - Language: JavaScript or TypeScript (preferred)
+  - Language: TypeScript
   - State Management: MobX-State-Tree
   - Navigation: React Navigation
   - Data Fetching: Axios
 
 - **Development Tools:**
-  - Code Editor: Visual Studio Code (recommended)
+  - Code Editor: Visual Studio Code
   - Version Control: Git
   - Build Tools: Expo CLI
 
@@ -96,17 +96,17 @@ To get started with the User Explorer app, follow these steps:
   Press a to run android or,
   pnpm run android
 
-## APK Download
-
-You can download the latest APK version of the User Explorer app from the following link: 
-
-[Download APK](https://drive.google.com/file/d/1juhKU5JJM2kKfz8j4EGfIAdTapZrtP4h/view?usp=sharing).
-
 ## Usage
 
 - Open the app in your preferred emulator or on a physical device using the Expo Go app.
 - The User List Screen will display a list of users. Scroll down to fetch more users.
 - Tap on any user to navigate to the User Posts Screen, where you can view that user's posts with infinite scrolling.
+
+## APK Download
+
+You can download the latest APK version of the User Explorer app from the following link: 
+
+[Download APK](https://drive.google.com/file/d/1juhKU5JJM2kKfz8j4EGfIAdTapZrtP4h/view?usp=sharing).
 
 ## Documentation
 
