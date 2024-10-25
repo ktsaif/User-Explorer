@@ -39,38 +39,6 @@ Welcome to **User Explorer**, a React Native application built with Expo, design
   - Implement infinite scrolling to load more posts as the user scrolls down the list.
   - Include a loading indicator while fetching more posts during scrolling.
 
-
-## Directory Structure
-
-Here's a brief overview of the project structure:
-
-User-Explorer
-├── app
-│   ├── components
-│   ├── config
-│   ├── i18n
-│   ├── models
-│   ├── navigators
-│   ├── screens
-│   ├── services
-│   ├── theme
-│   ├── utils
-│   └── app.tsx
-├── assets
-│   ├── icons
-│   └── images
-├── test
-│   ├── __snapshots__
-│   ├── mockFile.ts
-│   └── setup.ts
-├── README.md
-├── android
-├── ignite
-├── index.js
-├── ios
-├── .env
-└── package.json
-
 ## Installation
 
 To get started with the User Explorer app, follow these steps:
@@ -106,7 +74,7 @@ To get started with the User Explorer app, follow these steps:
 
 You can download the latest APK version of the User Explorer app from the following link: 
 
-[Download APK](https://drive.google.com/file/d/1juhKU5JJM2kKfz8j4EGfIAdTapZrtP4h/view?usp=sharing).
+[Download APK](https://drive.google.com/file/d/1juhKU5JJM2kKfz8j4EGfIAdTapZrtP4h/view?usp=sharing)
 
 ## Documentation
 
